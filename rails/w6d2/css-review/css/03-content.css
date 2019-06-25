@@ -1,15 +1,23 @@
 /* PHASE 3: Content */
 
 .content {
-
+  width: 900px;
+  margin: 0 auto;
+  border-left: 1px solid #ccc;
+  border-right: 1px solid #ccc;
+  border-bottom: 1px solid #ccc;
 }
 
 .content-sidebar {
-
+  width: 240;
+  float: left;
+  padding: 20px;
 }
 
 .content-main {
-
+  width: 660px;
+  float: left;
+  padding: 20px;
 }
 
 .content h1 {
