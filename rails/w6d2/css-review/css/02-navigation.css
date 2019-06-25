@@ -2,7 +2,8 @@
 
 .header-logo {
   float: left;
-  font-weight: bold;
+  font-weight: 700;
+  border-right: 1px solid #ccc;
 }
 
 .header-logo:hover {
