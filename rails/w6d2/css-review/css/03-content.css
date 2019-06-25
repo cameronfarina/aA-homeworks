@@ -3,25 +3,28 @@
 .content {
   width: 900px;
   margin: 0 auto;
+  background: #fff;
   border-left: 1px solid #ccc;
   border-right: 1px solid #ccc;
   border-bottom: 1px solid #ccc;
 }
 
 .content-sidebar {
-  width: 240;
+  width: 200;
   float: left;
   padding: 20px;
 }
 
 .content-main {
-  width: 660px;
-  float: left;
+  width: 620px;
+  float: left; 
   padding: 20px;
 }
 
 .content h1 {
-
+  font-size: 24px;
+  font-weight: bold;
+  margin: 0 0 20px 0;
 }
 
 .content p {
